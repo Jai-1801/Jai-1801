@@ -1,10 +1,10 @@
-### Hey there👋
+### Hey there 👋
 
 <div align="center">
 
-### UX/UI Designer • Frontend Developer • ML Enthusiast
+### AI Engineer • Researcher • Design-Driven Problem Solver
 
-**Pre-Final Year B.Tech Student** | **3+ Years Professional Experience**
+**B.Tech (AI & Data Science) | NASSCOM Presenter | Gidy Techpreneur Winner**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaisurya-anthology.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-surya-1801abc)
@@ -14,113 +14,76 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me: Bridging AI, Research, and Design
 
-I'm a passionate **UX/UI Designer and Frontend Developer** currently in my pre-final year at **SAVEETHA Engineering College**. My journey in design started back in **11th grade**, and I've since accumulated **3+ years of professional experience** through internships and real-world projects.
+[cite_start]I am a results-driven **AI Engineer and Researcher** with a strong foundation in **Machine Learning, Deep Learning, and NLP**[cite: 9]. I believe the most impactful AI solutions are built at the intersection of robust engineering and human-centered design.
 
-💡 **What drives me:**
-- Creating **intuitive, user-centered designs** that solve real problems
-- Building **scalable frontend applications** with modern technologies
-- Exploring **ML applications** in enhancing user experiences
-- Leading teams and delivering results under **tight deadlines**
+[cite_start]Currently pursuing a B.Tech in Artificial Intelligence and Data Science [cite: 53, 54] while actively solving complex problems through research and full-stack project implementation.
 
-🎯 **My Approach:**
-
-I believe great products are born at the intersection of **beautiful design, clean code, and user empathy**. I thrive in collaborative environments and have successfully led multiple projects from concept to deployment.
+💡 **My Focus Areas:**
+- [cite_start]**Advanced NLP/LLMs:** Engineering RAG systems and optimizing Small Language Models (SLMs)[cite: 39, 50].
+- [cite_start]**MLOps & Full-Stack AI:** Integrating models with scalable backend/frontend (Python, React, AWS)[cite: 11, 22, 23, 37].
+- [cite_start]**Design-Driven Development:** Applying UX/UI principles to ensure AI interfaces are intuitive and effective[cite: 9, 26].
+- [cite_start]**Rapid Prototyping:** Demonstrated ability to build and deploy complex systems under pressure (Hackathons)[cite: 46, 47].
 
 ---
 
-### 💼 Professional Experience
+### 🌟 Key Projects & Achievements
 
-### Key Highlights
+[cite_start]My work demonstrates a proven ability to leverage data science to solve complex challenges[cite: 10].
 
-✅ **3+ years** of hands-on experience in UX/UI design and frontend development  
-✅ Successfully completed multiple **professional internships**  
-✅ Led **cross-functional teams** and managed projects under pressure  
-✅ Delivered **meaningful outcomes** for clients and end-users  
-✅ Strong **stakeholder communication** and **team collaboration** skills  
-
-### What I Bring to the Table
-
-🎨 **User-Centered Design:** From research to high-fidelity prototypes  
-💻 **Frontend Development:** Translating designs into pixel-perfect, responsive code  
-🧪 **ML Integration:** Experimenting with ML models in web applications  
-👥 **Leadership:** Guiding teams and managing complex scenarios  
-⚡ **Adaptability:** Thriving in fast-paced, pressurized environments
+| Project / Achievement | Description | Key Tech / Skills |
+| :--- | :--- | :--- |
+| **Health Query RAG** | [cite_start]Engineered a RAG system for context-aware answers from thousands of documents[cite: 39]. | [cite_start]OCR (Tesseract), LangChain, Huggingface API, Semantic Chunking [cite: 40] |
+| **Taxonomist-Gidy** | [cite_start]Designed and built a platform for tax-policy simulation and GDP prediction using agent-based modeling[cite: 36]. | [cite_start]React/TypeScript (Frontend), Python (Backend), Economic Indicators [cite: 37] |
+| **Gidy Techpreneur** | **1st Place Winner**. [cite_start]Built an ensemble-based GDP prediction model and a budget allocation system[cite: 46]. | ML Implementation, Rapid Prototyping |
+| **NASSCOM Conference** | [cite_start]Presented research on enhancing context awareness and optimization techniques for Small Language Models (SLMs)[cite: 50, 51]. | Research, Optimization Techniques, System Architecture |
+| **TrueFIR** | [cite_start]Created a blockchain-powered FIR filing system with integrated anomaly-detection logs[cite: 42, 43]. | Solidity, Polygon testnet, Security-Conscious Design |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Tech Stack & Tools
 
-### Design
+I focus on tools that enable scalable, production-ready AI systems.
+
+### Machine Learning & AI Engineering
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [cite: 13]
+[cite_start]![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) [cite: 15]
+[cite_start]![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) [cite: 15]
+[cite_start]![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) [cite: 15]
+[cite_start]![LangChain](https://img.shields.io/badge/LangChain-1F5342?style=for-the-badge&logo=langchain&logoColor=white) [cite: 16]
+[cite_start]![Huggingface](https://img.shields.io/badge/HuggingFace-F7F13F?style=for-the-badge&logo=huggingface&logoColor=white) [cite: 16]
+
+### MLOps & Cloud/Full-Stack
+[cite_start]![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) [cite: 17]
+[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 17]
+[cite_start]![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 22]
+[cite_start]![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [cite: 23]
+[cite_start]![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [cite: 14]
+[cite_start]![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) [cite: 17]
+
+### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🎨 Design Philosophy
-
-> **"Good design is not just about aesthetics—it's about creating meaningful experiences that users love and businesses need."**
-
-My design process:
-1. **Research & Empathize** - Understanding user needs and pain points
-2. **Define & Ideate** - Creating solutions backed by data
-3. **Prototype & Test** - Iterating based on feedback
-4. **Develop & Deliver** - Bringing designs to life with code
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai-1801&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF6B00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-1801&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-1801&theme=dark&hide_border=true&background=000000&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF)
-
-</div>
+[cite_start]![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) [cite: 17]
 
 ---
 
 ### 🌟 What I'm Currently Working On
 
-🔨 Building a **comprehensive design system** for scalable applications  
-🎯 Exploring **AI/ML integration** in user experience optimization  
-📚 Deepening my knowledge in **advanced React patterns** and **TypeScript**  
-🚀 Contributing to **open-source projects** in the design-dev space
+[cite_start]🔨 Deepening my knowledge in **Optimization Techniques** and **Lightweight Fine-Tuning Strategies** for SLMs[cite: 51].
+[cite_start]🎯 Exploring advanced **MLOps deployment patterns** on AWS[cite: 22].
+[cite_start]📚 Continuing to apply **human-centered design principles** to AI interface development (UX Research)[cite: 60].
+[cite_start]🚀 **Full-Stack Project Implementation** using React, TypeScript, and Python backends[cite: 14, 23, 37].
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Let's Collaborate
 
-I'm always excited to collaborate on interesting projects, discuss design/dev, or just connect with like-minded folks!
+I'm always excited to discuss complex AI challenges, research opportunities, or projects that require a blend of engineering rigor and design intelligence.
 
-📧 **Email:** jaisurya1882005@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/jai-surya-1801abc](https://www.linkedin.com/in/jai-surya-1801abc)  
-🌐 **Portfolio:** [jaisurya-anthology.vercel.app](https://jaisurya-anthology.vercel.app/)
+[cite_start]📧 **Email:** jaisuryal882005@gmail.com [cite: 5]
+[cite_start]💼 **LinkedIn:** [Your LinkedIn Link] [cite: 7]
+[cite_start]🌐 **GitHub:** [Your GitHub Link] [cite: 8]
 
 ---
 
@@ -128,7 +91,7 @@ I'm always excited to collaborate on interesting projects, discuss design/dev, o
 
 ### 💭 Quote I Live By
 
-*"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
+*"The greatest competitive advantage is to integrate what you know with how you build."*
 
 ---
 
